@@ -28,6 +28,14 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ## Badges🏅
-<a href="https://www.credly.com/badges/a1326de4-fc86-434f-9851-9e5927a24126/public_url"><img height="110px" alt="AWS Certified Developer – Associate" src="https://images.credly.com/size/110x110/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png"/> </a>
 <a href="https://www.credly.com/badges/acb1bce4-6bcd-405e-8ee2-8eb5088812c4/public_url"><img alt="AWS Certified Cloud Practitioner" src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png"/></a>
+
+<a href="https://www.credly.com/badges/a1326de4-fc86-434f-9851-9e5927a24126/public_url"><img height="110px" alt="AWS Certified Developer – Associate" src="https://images.credly.com/size/110x110/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png"/> </a>
+
+<a href="https://www.credly.com/badges/8640462c-e632-4f5e-b70b-c04819c71901/public_url"><img height="110px" alt="IBM Carbon Design System Developer Essentials - Vue" src="https://images.credly.com/size/110x110/images/74b7b41d-5e0d-4516-8c2b-de60e12545c0/dev_essentials_badge_vuejs-01.png"/> </a>
+
+
+
+
+
 
