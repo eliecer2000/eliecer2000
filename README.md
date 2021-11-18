@@ -1,7 +1,7 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Eliecer Rangel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezer-rangel-b2a601123/)](https://www.linkedin.com/in/eliezer-rangel-b2a601123/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/desarrollador.fullstack/?hl=es-la)](https://www.instagram.com/desarrollador.fullstack/?hl=es-la)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC_xPqzDZ4nRqzJ6B_yINJlw)](https://www.youtube.com/channel/UC_xPqzDZ4nRqzJ6B_yINJlw)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliecer2000@gmail.com)](mailto:eliecer2000@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-EliecerRangel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezer-rangel-b2a601123/)](https://www.linkedin.com/in/eliezer-rangel-b2a601123/)
+[![Instagram Badge](https://img.shields.io/badge/-desarrollador.fullstack-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/desarrollador.fullstack/?hl=es-la)](https://www.instagram.com/desarrollador.fullstack/?hl=es-la)
+[![Youtube Badge](https://img.shields.io/badge/-eliecer2000-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC_xPqzDZ4nRqzJ6B_yINJlw)](https://www.youtube.com/channel/UC_xPqzDZ4nRqzJ6B_yINJlw)
+[![Gmail Badge](https://img.shields.io/badge/-eliecer2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliecer2000@gmail.com)](mailto:eliecer2000@gmail.com)
 
 
 
