@@ -27,4 +27,7 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=eliecer2000&count_private=true&show_icons=true&include_all_commits=true)
+## Badges🏅
+<a href="https://www.credly.com/badges/a1326de4-fc86-434f-9851-9e5927a24126/public_url"><img height="110px" alt="AWS Certified Developer – Associate" src="https://images.credly.com/size/110x110/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png"/> </a>
+<a href="https://www.credly.com/badges/acb1bce4-6bcd-405e-8ee2-8eb5088812c4/public_url"><img alt="AWS Certified Cloud Practitioner" src="https://images.youracclaim.com/size/110x110/images/1fdcf6a9-de8e-4e35-96b0-e801d8411506/AWS-CloudPractitioner.png"/></a>
+
