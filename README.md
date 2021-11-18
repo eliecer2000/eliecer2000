@@ -36,6 +36,7 @@
 <a href="https://www.credly.com/badges/a1326de4-fc86-434f-9851-9e5927a24126/public_url"><img height="110px" alt="AWS Certified Developer – Associate" src="https://images.credly.com/size/110x110/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png"/> </a>
 <a href="https://www.credly.com/badges/8640462c-e632-4f5e-b70b-c04819c71901/public_url"><img height="110px" alt="IBM Carbon Design System Developer Essentials - Vue" src="https://images.credly.com/size/110x110/images/74b7b41d-5e0d-4516-8c2b-de60e12545c0/dev_essentials_badge_vuejs-01.png"/> </a>
 <a href="https://www.credly.com/badges/a4c18812-fd72-4f6e-848f-c2f4344f0143/public_url"><img height="110px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/340x340/images/429455ef-4a2b-4520-954e-8dd15c817b27/PartnerAccreditation-Technical.png"/> </a>
+<a href="https://www.credly.com/badges/a7c1c82b-c60c-4cb9-9af0-1e91925fb9bc/public_url"><img height="110px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/340x340/images/f5e8b53f-b205-4109-9795-572ccec04cfe/PartnerAccreditation-Business.png"/></a>
 
 
 
