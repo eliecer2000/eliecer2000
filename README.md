@@ -36,7 +36,7 @@
 <a href="https://www.credly.com/badges/a1326de4-fc86-434f-9851-9e5927a24126/public_url"><img height="110px" alt="AWS Certified Developer – Associate" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/> </a>
 <a href="https://www.credly.com/badges/f5721625-0a01-44d8-84be-1d8590e7f4d6/public_url"><img height="110px" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/> </a>
 <a href="https://www.credly.com/badges/8640462c-e632-4f5e-b70b-c04819c71901/public_url"><img height="110px" alt="IBM Carbon Design System Developer Essentials - Vue" src="https://images.credly.com/size/340x340/images/13d6f1eb-52cb-4586-920c-f2464a0f5b56/image.png"/> </a>
-<a href="https://www.credly.com/badges/a4c18812-fd72-4f6e-848f-c2f4344f0143/public_url"><img height="110px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png"/> </a>
+<a href="https://www.credly.com/badges/a4c18812-fd72-4f6e-848f-c2f4344f0143/public_url"><img height="110px" alt="AWS Partner: Accreditation (Technical)" src="[https://images.credly.com/size/340x340/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png](https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png)"/> </a>
 <a href="https://www.credly.com/badges/a7c1c82b-c60c-4cb9-9af0-1e91925fb9bc/public_url"><img height="110px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/340x340/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/></a>
 
 
