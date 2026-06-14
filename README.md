@@ -1,7 +1,7 @@
 <!-- ════════════════════════════ HEADER BANNER ════════════════════════════ -->
 
 <a href="https://github.com/eliecer2000">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Eliecer%20Rangel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Engineer%20%E2%80%A2%20Backend%20%26%20Frontend%20Developer%20%E2%80%A2%20Solutions%20Architect&descSize=18&descAlignY=58" alt="header banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Eliecer%20Rangel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Engineer%20%E2%80%A2%20Backend%20and%20Frontend%20Developer%20%E2%80%A2%20Solutions%20Architect&descSize=18&descAlignY=58" alt="header banner" />
 </a>
 
 <!-- ════════════════════════════ TYPING SUBTITLE ═══════════════════════════ -->
