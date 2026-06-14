@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer+%26+Solutions+Architect;Backend+%26+Frontend+Developer;Building+scalable+cloud+solutions;Based+in+Panama+%F0%9F%87%B5%F0%9F%87%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer+%26+Solutions+Architect;Backend+%26+Frontend+Developer;Building+scalable+cloud+solutions;Venezuela+%F0%9F%87%BB%F0%9F%87%AA+%7C+Panama+%F0%9F%87%B5%F0%9F%87%A6+%7C+Spain+%F0%9F%87%AA%F0%9F%87%B8)](https://git.io/typing-svg)
 
 <!-- ════════════════════════════ PROFILE VIEWS ═════════════════════════════ -->
 
@@ -37,7 +37,7 @@
 ```typescript
 const eliecer: Developer = {
   role:        "AWS Cloud Engineer | Backend & Frontend Developer",
-  location:    "Panama 🇵🇦",
+  location:    "Venezuela 🇻🇪 · Panama 🇵🇦 · Spain 🇪🇸",
   focus:       ["Scalable architectures", "Serverless", "Web platforms"],
   stack:       ["JavaScript", "TypeScript", "Node.js", "Python"],
   cloud:       ["AWS Solutions Architect", "AWS Developer", "AWS Cloud Practitioner"],
