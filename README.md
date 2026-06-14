@@ -101,18 +101,6 @@ const eliecer: Developer = {
 
 <br/>
 
-<!-- ══════════════════════════════ TROPHIES ═══════════════════════════════ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=eliecer2000&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
-
-</div>
-
-<br/>
-
 <!-- ════════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
 
 ## 🎖️ Certifications & Badges
@@ -123,7 +111,7 @@ const eliecer: Developer = {
 <a href="https://www.credly.com/badges/a1326de4-fc86-434f-9851-9e5927a24126/public_url"><img height="120px" alt="AWS Certified Developer – Associate" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/></a>
 <a href="https://www.credly.com/badges/acb1bce4-6bcd-405e-8ee2-8eb5088812c4/public_url"><img height="120px" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
 <a href="https://www.credly.com/badges/8640462c-e632-4f5e-b70b-c04819c71901/public_url"><img height="120px" alt="IBM Carbon Design System Developer Essentials - Vue" src="https://images.credly.com/size/340x340/images/13d6f1eb-52cb-4586-920c-f2464a0f5b56/image.png"/></a>
-<a href="https://www.credly.com/badges/a4c18812-fd72-4f6e-848f-c2f4344f0143/public_url"><img height="120px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png"/></a>
+<a href="https://www.credly.com/badges/a4c18812-fd72-4f6e-848f-c2f4344f0143/public_url"><img height="120px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/images/8f006312-3154-45bf-a845-4a043641e83c/blob"/></a>
 <a href="https://www.credly.com/badges/a7c1c82b-c60c-4cb9-9af0-1e91925fb9bc/public_url"><img height="120px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/340x340/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/></a>
 
 </div>
