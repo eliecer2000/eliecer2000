@@ -1,46 +1,149 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Eliecer%20Rangel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliezer-rangel-b2a601123/)](https://www.linkedin.com/in/eliezer-rangel-b2a601123/)
-[![Instagram Badge](https://img.shields.io/badge/-Eliecer%20Rangel-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/desarrollador.fullstack/?hl=es-la)](https://www.instagram.com/desarrollador.fullstack/?hl=es-la)
-[![Youtube Badge](https://img.shields.io/badge/-Eliecer%20Rangel-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC_xPqzDZ4nRqzJ6B_yINJlw)](https://www.youtube.com/channel/UC_xPqzDZ4nRqzJ6B_yINJlw)
-[![Gmail Badge](https://img.shields.io/badge/-Eliecer%20Rangel-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliecer2000@gmail.com)](mailto:eliecer2000@gmail.com)
+<!-- ════════════════════════════ HEADER BANNER ════════════════════════════ -->
 
+<a href="https://github.com/eliecer2000">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Eliecer%20Rangel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AWS%20Solutions%20Architect%20%E2%80%A2%20Cloud%20Practitioner&descSize=18&descAlignY=58" alt="header banner" />
+</a>
 
+<!-- ════════════════════════════ TYPING SUBTITLE ═══════════════════════════ -->
 
-## ⚡ Technologies
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Building+scalable+cloud+solutions;Full-Stack+%7C+JavaScript+%7C+Python;AWS+Certified+Solutions+Architect;Lifelong+Learner+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+<!-- ════════════════════════════ PROFILE VIEWS ═════════════════════════════ -->
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<img src="https://komarev.com/ghpvc/?username=eliecer2000&label=Profile%20Views&color=26d0ce&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/eliecer2000?label=Followers&style=flat&color=1a2980&labelColor=0d1117&logo=github" alt="followers" />
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+</div>
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+<!-- ════════════════════════════ SOCIAL BADGES ═════════════════════════════ -->
 
-## 🏅 Badges
-<a href="https://www.credly.com/badges/acb1bce4-6bcd-405e-8ee2-8eb5088812c4/public_url"><img height="110px" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
-<a href="https://www.credly.com/badges/a1326de4-fc86-434f-9851-9e5927a24126/public_url"><img height="110px" alt="AWS Certified Developer – Associate" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/> </a>
-<a href="https://www.credly.com/badges/f5721625-0a01-44d8-84be-1d8590e7f4d6/public_url"><img height="110px" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/> </a>
-<a href="https://www.credly.com/badges/8640462c-e632-4f5e-b70b-c04819c71901/public_url"><img height="110px" alt="IBM Carbon Design System Developer Essentials - Vue" src="https://images.credly.com/size/340x340/images/13d6f1eb-52cb-4586-920c-f2464a0f5b56/image.png"/> </a>
-<a href="https://www.credly.com/badges/a4c18812-fd72-4f6e-848f-c2f4344f0143/public_url"><img height="110px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png"/> </a>
-<a href="https://www.credly.com/badges/a7c1c82b-c60c-4cb9-9af0-1e91925fb9bc/public_url"><img height="110px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/340x340/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/></a>
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-rangel-b2a601123/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_xPqzDZ4nRqzJ6B_yINJlw)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/desarrollador.fullstack/?hl=es-la)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliecer2000@gmail.com)
 
+</div>
 
+<br/>
 
+<!-- ════════════════════════════════ ABOUT ════════════════════════════════ -->
 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
+```typescript
+const eliecer: Developer = {
+  role:        "Full-Stack Developer & Cloud Practitioner",
+  location:    "Building from the cloud ☁️",
+  focus:       ["Scalable architectures", "Serverless", "Web platforms"],
+  stack:       ["JavaScript", "TypeScript", "Node.js", "Python"],
+  cloud:       ["AWS Solutions Architect", "AWS Developer", "AWS Cloud Practitioner"],
+  philosophy:  "Solid foundations before frameworks — concepts over code",
+  currently:   "Designing resilient systems & learning every single day",
+};
+```
+
+<br/>
+
+<!-- ══════════════════════════════ TECH STACK ═════════════════════════════ -->
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,bootstrap&theme=dark" alt="languages" />
+
+### Databases & APIs
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,graphql,elasticsearch&theme=dark" alt="databases" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,bitbucket,raspberrypi&theme=dark" alt="cloud" />
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════ GITHUB STATS ═════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliecer2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=26d0ce&icon_color=26d0ce&text_color=c9d1d9" alt="github stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliecer2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=26d0ce&text_color=c9d1d9&langs_count=8" alt="top languages" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eliecer2000&theme=tokyonight&hide_border=true&background=0D1117&ring=26D0CE&fire=26D0CE&currStreakLabel=26D0CE" alt="github streak" />
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════ ACTIVITY GRAPH ═══════════════════════════ -->
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=eliecer2000&bg_color=0d1117&color=26d0ce&line=1a2980&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+
+<!-- Snake contribution animation (auto-generated by the GitHub Action in .github/workflows/snake.yml) -->
+<img width="100%" src="https://raw.githubusercontent.com/eliecer2000/eliecer2000/output/github-contribution-grid-snake-dark.svg" alt="snake animation" onerror="this.style.display='none'" />
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════ TROPHIES ═══════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=eliecer2000&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+
+</div>
+
+<br/>
+
+<!-- ════════════════════════════ CERTIFICATIONS ═══════════════════════════ -->
+
+## 🎖️ Certifications & Badges
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/f5721625-0a01-44d8-84be-1d8590e7f4d6/public_url"><img height="120px" alt="AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"/></a>
+<a href="https://www.credly.com/badges/a1326de4-fc86-434f-9851-9e5927a24126/public_url"><img height="120px" alt="AWS Certified Developer – Associate" src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png"/></a>
+<a href="https://www.credly.com/badges/acb1bce4-6bcd-405e-8ee2-8eb5088812c4/public_url"><img height="120px" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/></a>
+<a href="https://www.credly.com/badges/8640462c-e632-4f5e-b70b-c04819c71901/public_url"><img height="120px" alt="IBM Carbon Design System Developer Essentials - Vue" src="https://images.credly.com/size/340x340/images/13d6f1eb-52cb-4586-920c-f2464a0f5b56/image.png"/></a>
+<a href="https://www.credly.com/badges/a4c18812-fd72-4f6e-848f-c2f4344f0143/public_url"><img height="120px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png"/></a>
+<a href="https://www.credly.com/badges/a7c1c82b-c60c-4cb9-9af0-1e91925fb9bc/public_url"><img height="120px" alt="AWS Partner: Accreditation (Technical)" src="https://images.credly.com/size/340x340/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/></a>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════ QUOTE ══════════════════════════════════ -->
+
+## 💭 Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+
+</div>
+
+<!-- ════════════════════════════ FOOTER BANNER ════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" alt="footer banner" />
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/eliecer2000">eliecer2000</a> — thanks for visiting!</sub>
+</div>
