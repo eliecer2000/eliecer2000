@@ -1,14 +1,14 @@
 <!-- ════════════════════════════ HEADER BANNER ════════════════════════════ -->
 
 <a href="https://github.com/eliecer2000">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Eliecer%20Rangel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AWS%20Solutions%20Architect%20%E2%80%A2%20Cloud%20Practitioner&descSize=18&descAlignY=58" alt="header banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=220&section=header&text=Eliecer%20Rangel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Cloud%20Engineer%20%E2%80%A2%20Backend%20%26%20Frontend%20Developer%20%E2%80%A2%20Solutions%20Architect&descSize=18&descAlignY=58" alt="header banner" />
 </a>
 
 <!-- ════════════════════════════ TYPING SUBTITLE ═══════════════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=Building+scalable+cloud+solutions;Full-Stack+%7C+JavaScript+%7C+Python;AWS+Certified+Solutions+Architect;Lifelong+Learner+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26D0CE&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer+%26+Solutions+Architect;Backend+%26+Frontend+Developer;Building+scalable+cloud+solutions;Based+in+Panama+%F0%9F%87%B5%F0%9F%87%A6)](https://git.io/typing-svg)
 
 <!-- ════════════════════════════ PROFILE VIEWS ═════════════════════════════ -->
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-rangel-b2a601123/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliezer-rangel/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_xPqzDZ4nRqzJ6B_yINJlw)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/desarrollador.fullstack/?hl=es-la)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliecer2000@gmail.com)
@@ -36,8 +36,8 @@
 
 ```typescript
 const eliecer: Developer = {
-  role:        "Full-Stack Developer & Cloud Practitioner",
-  location:    "Building from the cloud ☁️",
+  role:        "AWS Cloud Engineer | Backend & Frontend Developer",
+  location:    "Panama 🇵🇦",
   focus:       ["Scalable architectures", "Serverless", "Web platforms"],
   stack:       ["JavaScript", "TypeScript", "Node.js", "Python"],
   cloud:       ["AWS Solutions Architect", "AWS Developer", "AWS Cloud Practitioner"],
