@@ -57,7 +57,7 @@ const eliecer: Developer = {
 ### Languages
 <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,html,css&theme=dark" alt="languages" />
 <br/>
-![XML](https://img.shields.io/badge/XML-EB8C00?style=for-the-badge&logo=xml&logoColor=white)
+<img src="https://img.shields.io/badge/XML-EB8C00?style=for-the-badge&logo=xml&logoColor=white" alt="XML" />
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,bootstrap&theme=dark" alt="frontend" />
@@ -72,9 +72,9 @@ const eliecer: Developer = {
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,gitlab,bitbucket,raspberrypi&theme=dark" alt="cloud" />
 
 ### AI & Platforms
-![AI / ML](https://img.shields.io/badge/AI%20%2F%20ML-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="AI / ML" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 
 </div>
 
